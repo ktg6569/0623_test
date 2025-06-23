@@ -60,3 +60,5 @@
 >> 중첩 인용도 가능합니다.
 
 # 2. colab과 연동
+
+![image](https://github.com/user-attachments/assets/2033bef3-470d-4e76-96e7-019dc728c042)
