@@ -21,6 +21,7 @@
 아자차카타파하
 ```
 ```
+dddd
 pip install matplotlib
 sudo apt ubdate
 sudo apt upgrade
