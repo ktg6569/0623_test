@@ -32,11 +32,17 @@
 - 항목1
 - 항목2
   - 하위항목
+
+1. 첫번째
+2. 두번째
 ```
 
 - 항목1
 - 항목2
   - 하위항목
+ 
+1. 첫번째
+2. 두번째
 
 ![image](https://github.com/user-attachments/assets/982a60e8-5bf0-41bc-9a66-2fb3fbdfb6e7)
 
