@@ -80,3 +80,6 @@
 # 3.W3school로 파이썬 연습
 ![image](https://github.com/user-attachments/assets/5cbaffda-6e03-4d60-9924-32c8195efa2b)
 
+```
+W3school 사이트에서 파이썬 예제 문제 풀이
+```
