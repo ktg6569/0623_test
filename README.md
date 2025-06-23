@@ -19,3 +19,9 @@
 ```bash
 가나다라마바사
 아자차카타파하
+```
+```
+pip install matplotlib
+sudo apt ubdate
+sudo apt upgrade
+```
