@@ -59,13 +59,4 @@
 > 인용문입니다.
 >> 중첩 인용도 가능합니다.
 
-```bash
-가나다라마바사
-아자차카타파하
-```
-```
-dddd
-pip install matplotlib
-sudo apt ubdate
-sudo apt upgrade
-```
+# 2. colab과 연동
