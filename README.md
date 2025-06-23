@@ -14,3 +14,8 @@
 
 
 ![image](https://github.com/user-attachments/assets/982a60e8-5bf0-41bc-9a66-2fb3fbdfb6e7)
+
+
+```bash
+가나다라마바사
+아자차카타파하
