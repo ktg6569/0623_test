@@ -44,6 +44,8 @@
 1. 첫번째
 2. 두번째
 
+
+# 1.4 이미지
 ![image](https://github.com/user-attachments/assets/982a60e8-5bf0-41bc-9a66-2fb3fbdfb6e7)
 
 
