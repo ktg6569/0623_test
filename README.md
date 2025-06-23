@@ -62,3 +62,11 @@
 # 2. colab과 연동
 
 ![image](https://github.com/user-attachments/assets/2033bef3-470d-4e76-96e7-019dc728c042)
+```
+파이썬 코딩이 가능한 colab과 연동
+```
+
+
+# 3.W3school로 파이썬 연습
+![image](https://github.com/user-attachments/assets/5cbaffda-6e03-4d60-9924-32c8195efa2b)
+
