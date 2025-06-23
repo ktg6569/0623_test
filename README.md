@@ -14,7 +14,12 @@
 ##글머리2
 ###글머리3
 ####글머리는 6까지만 지원
-
+# This is a H1
+## This is a H2
+### This is a H3
+#### This is a H4
+##### This is a H5
+###### This is a H6
 **굵게**
 *기울임*
 ~~취소선~~
